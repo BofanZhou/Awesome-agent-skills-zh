@@ -13,17 +13,20 @@
 
 ## 目录
 
-1. **[官方出品 · Official](#01-官方出品--official)**：Anthropic 官方技能 · Codex 生态工具
-2. **[科研学术 · Research](#02-科研学术--research)**：Nature 科研技能系列 · academic-research-skills 学术研究 · scientific-agent-skills 科学 Agent 技能库 · 数学建模竞赛工作流
-3. **[公众号 · 中文内容创作](#03-公众号--中文内容创作)**：wechat-skills 公众号写作 · wewrite 公众号全流程 · wechat-article-skills 公众号 AI 运营 · Humanizer-zh 去除 AI 痕迹
-4. **[知识管理与检索](#04-知识管理与检索)**：Obsidian 知识管理 · claude-obsidian 知识工作流 · anysearch 实时检索 · Agent-Reach 互联网能力路由
-5. **[前端 · 设计与视觉](#05-前端--设计与视觉)**：garden-skills 设计创作集 · huashu-design 花叔设计 · taste-skill 品味设计 · ip-as-logo 个人 IP Logo · frontend-slides 网页演示 · guizang 横向翻页网页 PPT · html-slides 网页幻灯片
-6. **[安全逆向 · Security](#06-安全逆向--security)**：reverse-skill 安全逆向
-7. **[SEO 优化](#07-seo-优化)**：claude-seo SEO 优化
-8. **[个人 IP 打造](#08-个人-ip-打造)**：ip-strategist 个人 IP 策略师
-9. **[工程流程与元技能](#09-工程流程与元技能)**：Matt Pocock 技能集 · qiushi-skill 求是工作法
+1. **[官方出品 · Official](#01-official)**：Anthropic 官方技能 · Codex 生态工具
+2. **[科研学术 · Research](#02-research)**：Nature 科研技能系列 · academic-research-skills 学术研究 · scientific-agent-skills 科学 Agent 技能库 · 数学建模竞赛工作流
+3. **[公众号 · 中文内容创作](#03-wechat)**：wechat-skills 公众号写作 · wewrite 公众号全流程 · wechat-article-skills 公众号 AI 运营 · Humanizer-zh 去除 AI 痕迹
+4. **[知识管理与检索](#04-knowledge)**：Obsidian 知识管理 · claude-obsidian 知识工作流 · anysearch 实时检索 · Agent-Reach 互联网能力路由
+5. **[前端 · 设计与视觉](#05-frontend)**：garden-skills 设计创作集 · huashu-design 花叔设计 · taste-skill 品味设计 · ip-as-logo 个人 IP Logo · frontend-slides 网页演示 · guizang 横向翻页网页 PPT · html-slides 网页幻灯片
+6. **[安全逆向 · Security](#06-security)**：reverse-skill 安全逆向
+7. **[SEO 优化](#07-seo)**：claude-seo SEO 优化
+8. **[个人 IP 打造](#08-ip)**：ip-strategist 个人 IP 策略师
+9. **[工程流程与元技能](#09-engineering)**：Matt Pocock 技能集 · qiushi-skill 求是工作法
+10. **[相关说明](#10-notes)**：收录口径与更新说明
+11. **[相关项目](#11-related)**：同类合集仓库与技能市场
 
-## 官方出品 · Official {#01-官方出品--official}
+<a id="01-official"></a>
+## 官方出品 · Official
 
 > 官方维护的高质量 Agent Skills 仓库，稳定且面向生态。
 
@@ -65,7 +68,8 @@ OpenAI Codex 环境配套技能：造技能、规则、子代理与宠物孵化�
 - **shell** — 把 /shell 请求按字面执行为 shell 命令（仅在用户明确要求时使用）。
 - **update-cursor-settings** — 修改 Codex / VSCode 用户 settings.json 设置。
 
-## 科研学术 · Research {#02-科研学术--research}
+<a id="02-research"></a>
+## 科研学术 · Research
 
 > 科研全流程：文献、写作、评审、科学计算与数学建模。
 
@@ -311,7 +315,8 @@ Nature 级科研流水线：检索、精读、引用、制图、统计、投稿�
 - **symbol-table-builder** — 从问题框架与活动方法维护一张全局数学符号与单位总表。
 - **workflow-orchestrator** — 巡检数模工作区，评估各子问题的 lean / submission 门禁并推进整体状态。
 
-## 公众号 · 中文内容创作 {#03-公众号--中文内容创作}
+<a id="03-wechat"></a>
+## 公众号 · 中文内容创作
 
 > 微信公众号从选题、写作、排版、配图到发布的完整创作工具。
 
@@ -370,7 +375,8 @@ Nature 级科研流水线：检索、精读、引用、制图、统计、投稿�
 
 - **humanizer-zh** — 去除文本中的 AI 生成痕迹，使其更自然、更像人类书写；基于维基百科「AI 写作特征」指南，检测并修复夸张比喻、套路化过渡等模式。
 
-## 知识管理与检索 {#04-知识管理与检索}
+<a id="04-knowledge"></a>
+## 知识管理与检索
 
 > 把 Obsidian 变成第二大脑，并为 Agent 装上联网检索能力。
 
@@ -420,7 +426,8 @@ anysearch 统一实时搜索引擎：通用/垂直/批量搜索与全文抽取�
 
 - **agent-reach** — Agent-Reach 互联网能力路由器：用户要求调研/搜索/查资料、或提到某个平台/分享 URL 时，用它从 15 个平台多渠道获取内容（小红书、推特、B站、Reddit、V2EX、LinkedIn、GitHub、YouTube、小宇宙、雪球、RSS 与任意网页）。多后端路由、6 渠道零配置。
 
-## 前端 · 设计与视觉 {#05-前端--设计与视觉}
+<a id="05-frontend"></a>
+## 前端 · 设计与视觉
 
 > 网页幻灯片、设计出图与视觉品味：让 Agent 产出好看的界面与视觉。
 
@@ -496,7 +503,8 @@ HTML 幻灯片与演讲者备注，支持多 Agent 环境。
 
 - **html-slides** — 用 Claude/Codex/Copilot 的前端技能构建漂亮的 HTML 幻灯片与演讲者备注，可用 HTMLSlides App 演示。
 
-## 安全逆向 · Security {#06-安全逆向--security}
+<a id="06-security"></a>
+## 安全逆向 · Security
 
 > 逆向工程、授权渗透测试与安全研究。
 
@@ -593,7 +601,8 @@ HTML 幻灯片与演讲者备注，支持多 Agent 环境。
 - **wifi-wireless** — 无线安全评估：Wi-Fi 抓包、WPA 握手分析。
 - **windows-ad** — Active Directory 与 Windows 身份攻击：Kerberos、AD CS、委派。
 
-## SEO 优化 {#07-seo-优化}
+<a id="07-seo"></a>
+## SEO 优化
 
 > 技术 SEO、内容优化与生成式引擎优化。
 
@@ -629,7 +638,8 @@ HTML 幻灯片与演讲者备注，支持多 Agent 环境。
 - **seo-sxo** — 搜索体验优化：反向解读 Google SERP 以检测页面类型错配。
 - **seo-technical** — 跨 9 类别的技术 SEO 审计：可抓取性、可索引性、安全、URL 结构等。
 
-## 个人 IP 打造 {#08-个人-ip-打造}
+<a id="08-ip"></a>
+## 个人 IP 打造
 
 > 把 Agent 变成个人 IP 策略师，打造人设与内容。
 
@@ -641,7 +651,8 @@ HTML 幻灯片与演讲者备注，支持多 Agent 环境。
 
 - **ip-strategist** — 档案驱动的个人 IP 打造陪跑教练：先建私人档案，再「诊-契-行-盘」闭环推进人设定位、内容支柱、找题判题改题与短视频脚本。
 
-## 工程流程与元技能 {#09-工程流程与元技能}
+<a id="09-engineering"></a>
+## 工程流程与元技能
 
 > 任务流水线、测试驱动与拷问打磨的方法论技能。
 
@@ -706,6 +717,7 @@ HTML 幻灯片与演讲者备注，支持多 Agent 环境。
 - **spark-prairie-fire** — 资源极少、从零起步时的最小可行切入口与根据地建设。
 - **workflows** — 需要多个思想武器协作时的标准化跨 skill 工作流组织。
 
+<a id="10-notes"></a>
 ## 相关说明
 
 - 数据来自对 26 个 GitHub 仓库的整理，共 467 个技能；stars 为整理时点数值。
@@ -713,25 +725,26 @@ HTML 幻灯片与演讲者备注，支持多 Agent 环境。
 - 本库侧重「中文可读」：每条给出一句中文用途说明，英文原名保留便于检索上游。
 - 欢迎补充新仓库：按上述收录标准，在对应大类追加簇并附来源仓库链接，发 PR。
 
+<a id="11-related"></a>
 ## 相关项目
 
 > 同类「Agent Skills 精选 / 合集」仓库与技能市场。本库的差异点：**中文可读** + **按用途整簇归类**，少而精、可快速上手，而非单纯堆数量。stars 为检索时点数值。
 
 ### 中文同类
 
-- **JackyST0/awesome-agent-skills** — 中英双语精选合集，带网站版（jackyst0.github.io），覆盖 Cursor / Claude Code / Copilot 等平台。
-- **libukai/awesome-agent-skills** — 中文偏「教学向」：快速入门、教程、资源与案例，辅助上手 Agent Skills。
-- **xstongxue/best-skills** — 中文通用高质量 skills 合集，可安装进 Cursor / Claude Code / Codex / OpenClaw 等。
+- **[JackyST0/awesome-agent-skills](https://github.com/JackyST0/awesome-agent-skills)** — 中英双语精选合集，带网站版（jackyst0.github.io），覆盖 Cursor / Claude Code / Copilot 等平台。
+- **[libukai/awesome-agent-skills](https://github.com/libukai/awesome-agent-skills)** — 中文偏「教学向」：快速入门、教程、资源与案例，辅助上手 Agent Skills。
+- **[xstongxue/best-skills](https://github.com/xstongxue/best-skills)** — 中文通用高质量 skills 合集，可安装进 Cursor / Claude Code / Codex / OpenClaw 等。
 
 ### 英文同类
 
-- **VoltAgent/awesome-agent-skills**（约 33k★）— 目前该赛道体量最大的精选合集，1000+ 技能，兼容 Claude Code / Codex / Gemini CLI / Cursor。
-- **ComposioHQ/awesome-claude-skills** — 公司运营的 Claude Skills 精选，按文档 / 开发 / 数据 / 营销等分类。
-- **awesome-skills.com** — 网页形态合集，1030+ 技能带链接与描述。
-- **travisvn / vivy-yi / heilcheng / CommandCodeAI 的 awesome-agent-skills** — 社区维护的英文精选列表。
+- **[VoltAgent/awesome-agent-skills](https://github.com/VoltAgent/awesome-agent-skills)**（约 33k★）— 目前该赛道体量最大的精选合集，1000+ 技能，兼容 Claude Code / Codex / Gemini CLI / Cursor。
+- **[ComposioHQ/awesome-claude-skills](https://github.com/ComposioHQ/awesome-claude-skills)** — 公司运营的 Claude Skills 精选，按文档 / 开发 / 数据 / 营销等分类。
+- **[awesome-skills.com](https://awesome-skills.com/)** — 网页形态合集，1030+ 技能带链接与描述。
+- **[travisvn/awesome-claude-skills](https://github.com/travisvn/awesome-claude-skills)** · **[vivy-yi/awesome-skills](https://github.com/vivy-yi/awesome-skills)** · **[heilcheng/awesome-agent-skills](https://github.com/heilcheng/awesome-agent-skills)** · **[CommandCodeAI/agent-skills](https://github.com/commandcodeai/agent-skills)** — 社区维护的英文精选列表。
 
 ### 技能市场与官方
 
-- **SkillsMP（skillsmp.com/zh）** — 中文友好的技能商店，收录 3000+ 技能，主打安全审查，可搜索 / 安装。
-- **skills.sh / LobeHub / ClaudeSkills / skillsdirectory.com / MCP Market / Agensi** — 各类 Agent Skills 市场，多数带安全扫描、安装与分发能力。
-- **anthropics/skills** — Anthropic 官方 Agent Skills 仓库（见第 01 大类）；OpenAI Codex 生态技能亦是内容与权威标准来源。
+- **[SkillsMP（skillsmp.com/zh）](https://skillsmp.com/zh)** — 中文友好的技能商店，收录 3000+ 技能，主打安全审查，可搜索 / 安装。
+- **[skills.sh](https://skills.sh)** · **[LobeHub](https://lobehub.com/skills)** · **[AugmentClaude](https://augmentclaude.com/)** · **[SkillsDirectory](https://www.skillsdirectory.com/)** · **[MCP Market](https://mcpmarket.com/)** · **[Agensi](https://www.agensi.io/)** — 各类 Agent Skills 市场，多数带安全扫描、安装与分发能力。
+- **[anthropics/skills](https://github.com/anthropics/skills)** — Anthropic 官方 Agent Skills 仓库（见第 01 大类）；OpenAI Codex 生态技能亦是内容与权威标准来源。
