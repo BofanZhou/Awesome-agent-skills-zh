@@ -2,7 +2,7 @@
 
 > 精选可用的 **AI Agent Skills**，按**用途**划分大类，以来源仓库（簇）为单位整体归类。中文介绍、保留英文术语。
 
-![skills](https://img.shields.io/badge/skills-467-blue) ![repos](https://img.shields.io/badge/repos-26-green) ![stars](https://img.shields.io/badge/stars-913k-brightgreen) ![license](https://img.shields.io/badge/license-MIT-yellow) ![zh](https://img.shields.io/badge/lang-中文-orange)
+![skills](https://img.shields.io/badge/skills-510-blue) ![repos](https://img.shields.io/badge/repos-27-green) ![stars](https://img.shields.io/badge/stars-916k-brightgreen) ![license](https://img.shields.io/badge/license-MIT-yellow) ![zh](https://img.shields.io/badge/lang-中文-orange)
 
 ## 收录标准
 
@@ -20,7 +20,7 @@
 4. **[知识管理与检索](#04-knowledge)**：Obsidian 知识管理 · claude-obsidian 知识工作流 · anysearch 实时检索 · Agent-Reach 互联网能力路由
 5. **[前端 · 设计与视觉](#05-frontend)**：garden-skills 设计创作集 · huashu-design 花叔设计 · taste-skill 品味设计 · ip-as-logo 个人 IP Logo · frontend-slides 网页演示 · guizang 横向翻页网页 PPT · html-slides 网页幻灯片
 6. **[安全逆向 · Security](#06-security)**：reverse-skill 安全逆向
-7. **[SEO 优化](#07-seo)**：claude-seo SEO 优化
+7. **[SEO 优化](#07-seo)**：claude-seo SEO 优化 · NotFair 营销技能
 8. **[个人 IP 打造](#08-ip)**：ip-strategist 个人 IP 策略师
 9. **[工程流程与元技能](#09-engineering)**：Matt Pocock 技能集 · qiushi-skill 求是工作法
 10. **[相关说明](#10-notes)**：收录口径与更新说明
@@ -651,6 +651,56 @@ HTML 幻灯片与演讲者备注，支持多 Agent 环境。
 - **seo-sxo** — 搜索体验优化：反向解读 Google SERP 以检测页面类型错配。
 - **seo-technical** — 跨 9 类别的技术 SEO 审计：可抓取性、可索引性、安全、URL 结构等。
 
+### NotFair 营销技能 ★3.4k
+
+**来源仓库**：[nowork-studio/notfair-plugin](https://github.com/nowork-studio/notfair-plugin)
+
+面向 SEO、GEO、paid media 与 analytics 的 45 个 Agent Skills；其中 `seo-drift` 与 `seo-page` 已在上方收录，以下列出其余 43 个。
+
+- **backlink-audit** — 审查 backlink profile、锚文本分布与异常链接信号。
+- **broken-link-checker** — 扫描站内外链接并定位 404、500 等失效目标。
+- **competitor-pages** — 比较竞争页面的内容覆盖、结构、意图与 Schema 差距。
+- **content-planner** — 基于 GSC 机会生成带日期和优先级的内容日历。
+- **content-writer** — 撰写符合 E-E-A-T 与 Helpful Content 的 SEO 内容。
+- **ecommerce-seo** — 审计电商分类页、商品页、筛选导航与 Product Schema。
+- **gemini** — 使用 Gemini 复核、质疑或咨询 SEO 与广告方案。
+- **geo-optimizer** — 审计并改写内容，提升其在 AI answer engines 中的引用机会。
+- **google-ads-assets** — 规划并校验 sitelink、callout、图片与 PMax 素材。
+- **google-ads-audit** — 审计 Google Ads 账户健康度并建立业务上下文。
+- **google-ads-copy** — 生成并设计 Google Ads RSA 文案的 A/B 测试。
+- **google-ads-landing** — 评分广告落地页并诊断 message match 与转化问题。
+- **google-ads** — 管理 Google Ads 的关键词、预算、出价、广告与实验。
+- **google-analytics** — 分析 GA4 流量、获客、互动、电商、事件与转化。
+- **hreflang-international** — 检查 hreflang、canonical 与多地区 URL 信号。
+- **image-seo** — 审计 alt text、图片格式、性能、sitemap 与 ImageObject。
+- **keyword-research** — 发现并按搜索量、竞争、意图和业务价值排序关键词。
+- **local-seo** — 审计 GBP、NAP、本地页面、评价与 LocalBusiness Schema。
+- **meta-ads-audit** — 审计 Meta Ads 账户健康度并建立业务上下文。
+- **meta-ads-creative** — 生成 Meta Ads 创意简报、文案角度与可测试概念。
+- **meta-ads** — 管理 Meta Ads 的 campaign、ad set、预算与创意。
+- **meta-tags-optimizer** — 优化 title、meta description、Open Graph 与 Twitter Card。
+- **paid-ads-amazon** — 规划并复盘 Amazon Ads 的 ACoS、商品与搜索词。
+- **paid-ads-chatgpt** — 规划并复盘带能力验证边界的 ChatGPT Ads 实验。
+- **paid-ads-creative** — 生成跨平台广告创意、文案角度与测试简报。
+- **paid-ads-guide** — 说明 NotFair 广告技能的安装、边界与账户连接方式。
+- **paid-ads-integrations** — 连接并验证广告集成及其实际读写能力。
+- **paid-ads-launch** — 规划新 campaign、跨渠道测试与预算分配。
+- **paid-ads-linkedin** — 审计并操作 LinkedIn Ads 的 campaign、受众与出价。
+- **paid-ads-optimize** — 诊断广告浪费、pacing 与预算分配并提出优化方案。
+- **paid-ads-review** — 汇总跨平台 CPA、ROAS、CTR、spend 与追踪健康度。
+- **paid-ads-setup** — 连接广告账户并建立可复用的 campaign 上下文。
+- **paid-ads-tiktok** — 规划 TikTok Ads 创意实验及其测量与授权边界。
+- **paid-ads-x** — 审计并操作 X Ads 的 campaign、预算、出价与受众。
+- **paid-ads** — 协调 Google、Meta、X、LinkedIn、TikTok 等广告工作流。
+- **programmatic-seo** — 规划并审计规模化模板页面、索引策略与内容唯一性。
+- **schema-markup-generator** — 生成并校验 FAQ、HowTo、Article、Product 等 JSON-LD。
+- **search-console** — 查询 GSC 表现、索引与 sitemap，并执行获批操作。
+- **seo-analysis** — 综合 GSC、URL Inspection、PageSpeed 与技术爬取做 SEO 审计。
+- **setup-cms** — 连接 WordPress、Strapi、Contentful 或 Ghost 到 SEO 工具。
+- **sitemap-audit** — 审查 XML sitemap 的状态码、索引、canonical 与 lastmod。
+- **sxo** — 优化从 SERP 点击到页面转化的完整 Search Experience。
+- **upgrade** — 更新 NotFair plugin 到最新版并同步本地安装记录。
+
 [⬆ 返回目录](#toc)
 
 <a id="08-ip"></a>
@@ -739,7 +789,7 @@ HTML 幻灯片与演讲者备注，支持多 Agent 环境。
 <a id="10-notes"></a>
 ## 相关说明
 
-- 数据来自对 26 个 GitHub 仓库的整理，共 467 个技能；stars 为整理时点数值。
+- 数据来自对 27 个 GitHub 仓库的整理，共 510 个技能；stars 为整理时点数值。
 - 本库按「用途」划分大类（官方出品 / 科研学术 / 公众号创作 / 知识管理 / 前端设计 / 安全逆向 / SEO / 个人 IP / 工程流程），每个来源仓库整簇归类，不拆散。
 - 本库侧重「中文可读」：每条给出一句中文用途说明，英文原名保留便于检索上游。
 - 欢迎补充新仓库：按上述收录标准，在对应大类追加簇并附来源仓库链接，发 PR。参见 [CONTRIBUTING.md](./CONTRIBUTING.md) 与贡献模板 [TEMPLATE.md](./TEMPLATE.md)。
