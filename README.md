@@ -33,7 +33,7 @@
 
 ### Anthropic 官方技能 ★171.9k
 
-**来源仓库**：[https://github.com/anthropics/skills](https://github.com/anthropics/skills)  
+**来源仓库**：[https://github.com/anthropics/skills](https://github.com/anthropics/skills)  [⬆](#toc)
 
 Anthropic 官方公开的 Agent Skills：办公格式、视觉创作、扩展开发与元技能。
 
@@ -78,7 +78,7 @@ OpenAI Codex 环境配套技能：造技能、规则、子代理与宠物孵化�
 
 ### Nature 科研技能系列 ★37.3k
 
-**来源仓库**：[https://github.com/Yuan1z0825/nature-skills](https://github.com/Yuan1z0825/nature-skills)  
+**来源仓库**：[https://github.com/Yuan1z0825/nature-skills](https://github.com/Yuan1z0825/nature-skills) [⬆](#toc) 
 
 Nature 级科研流水线：检索、精读、引用、制图、统计、投稿、返修。
 
@@ -104,7 +104,7 @@ Nature 级科研流水线：检索、精读、引用、制图、统计、投稿�
 
 ### academic-research-skills 学术研究 ★43.9k
 
-**来源仓库**：[https://github.com/Imbad0202/academic-research-skills](https://github.com/Imbad0202/academic-research-skills)  
+**来源仓库**：[https://github.com/Imbad0202/academic-research-skills](https://github.com/Imbad0202/academic-research-skills) [⬆](#toc)
 
 学术研究全链路：论文写作管线、深度研究、评审与完整性检查。
 
@@ -115,7 +115,7 @@ Nature 级科研流水线：检索、精读、引用、制图、统计、投稿�
 
 ### scientific-agent-skills 科学 Agent 技能库 ★35.5k
 
-**来源仓库**：[https://github.com/K-Dense-AI/scientific-agent-skills](https://github.com/K-Dense-AI/scientific-agent-skills)  
+**来源仓库**：[https://github.com/K-Dense-AI/scientific-agent-skills](https://github.com/K-Dense-AI/scientific-agent-skills) [⬆](#toc) 
 
 163 个科学 Agent 技能：生信、量子、材料、统计、写作与评审。
 
@@ -285,7 +285,7 @@ Nature 级科研流水线：检索、精读、引用、制图、统计、投稿�
 
 ### 数学建模竞赛工作流 ★616
 
-**来源仓库**：[https://github.com/zhnnky329/MathModeling-skills](https://github.com/zhnnky329/MathModeling-skills)  
+**来源仓库**：[https://github.com/zhnnky329/MathModeling-skills](https://github.com/zhnnky329/MathModeling-skills) [⬆](#toc) 
 
 数学建模竞赛全链路：拆题、选法、双语言建模、检验、写作、终审。
 
@@ -327,7 +327,7 @@ Nature 级科研流水线：检索、精读、引用、制图、统计、投稿�
 
 ### wechat-skills 公众号写作 ★157
 
-**来源仓库**：[https://github.com/gainubi/wechat-skills](https://github.com/gainubi/wechat-skills)  
+**来源仓库**：[https://github.com/gainubi/wechat-skills](https://github.com/gainubi/wechat-skills) [⬆](#toc) 
 
 公众号写作套装：选题、文风 DNA、标题、初稿、配图与排版。
 
@@ -341,7 +341,7 @@ Nature 级科研流水线：检索、精读、引用、制图、统计、投稿�
 
 ### wewrite 公众号全流程 ★3.2k
 
-**来源仓库**：[https://github.com/imraywang/wewrite](https://github.com/imraywang/wewrite)  
+**来源仓库**：[https://github.com/imraywang/wewrite](https://github.com/imraywang/wewrite) [⬆](#toc) 
 
 公众号内容全流程：从热点抓取到微信草稿箱的一条管道。
 
@@ -358,7 +358,7 @@ Nature 级科研流水线：检索、精读、引用、制图、统计、投稿�
 
 ### wechat-article-skills 公众号 AI 运营 ★534
 
-**来源仓库**：[https://github.com/aiworkskills/wechat-article-skills](https://github.com/aiworkskills/wechat-article-skills)  
+**来源仓库**：[https://github.com/aiworkskills/wechat-article-skills](https://github.com/aiworkskills/wechat-article-skills) [⬆](#toc) 
 
 微信公众号 AI 运营：选题、写稿、审稿、排版、配图、发布。
 
@@ -374,7 +374,7 @@ Nature 级科研流水线：检索、精读、引用、制图、统计、投稿�
 
 ### Humanizer-zh 去除 AI 痕迹 ★16.1k
 
-**来源仓库**：[https://github.com/op7418/Humanizer-zh](https://github.com/op7418/Humanizer-zh)  
+**来源仓库**：[https://github.com/op7418/Humanizer-zh](https://github.com/op7418/Humanizer-zh) [⬆](#toc) 
 
 去除文本中的 AI 痕迹，让输出更像人类书写。
 
@@ -389,7 +389,7 @@ Nature 级科研流水线：检索、精读、引用、制图、统计、投稿�
 
 ### Obsidian 知识管理 ★47.4k
 
-**来源仓库**：[https://github.com/kepano/obsidian-skills](https://github.com/kepano/obsidian-skills)  
+**来源仓库**：[https://github.com/kepano/obsidian-skills](https://github.com/kepano/obsidian-skills) [⬆](#toc) 
 
 Obsidian 创始人出品：CLI、Markdown、Bases 与 JSON Canvas 知识管理。
 
@@ -401,7 +401,7 @@ Obsidian 创始人出品：CLI、Markdown、Bases 与 JSON Canvas 知识管理�
 
 ### claude-obsidian 知识工作流 ★13.6k
 
-**来源仓库**：[https://github.com/AgriciDaniel/claude-obsidian](https://github.com/AgriciDaniel/claude-obsidian)  
+**来源仓库**：[https://github.com/AgriciDaniel/claude-obsidian](https://github.com/AgriciDaniel/claude-obsidian) [⬆](#toc) 
 
 自组织 AI 第二大脑：wiki 工作流、研究回环、推理与归档。
 
@@ -419,7 +419,7 @@ Obsidian 创始人出品：CLI、Markdown、Bases 与 JSON Canvas 知识管理�
 
 ### anysearch 实时检索 ★5.9k
 
-**来源仓库**：[https://github.com/anysearch-ai/anysearch-skill](https://github.com/anysearch-ai/anysearch-skill)  
+**来源仓库**：[https://github.com/anysearch-ai/anysearch-skill](https://github.com/anysearch-ai/anysearch-skill) [⬆](#toc) 
 
 anysearch 统一实时搜索引擎：通用/垂直/批量搜索与全文抽取。
 
@@ -427,7 +427,7 @@ anysearch 统一实时搜索引擎：通用/垂直/批量搜索与全文抽取�
 
 ### Agent-Reach 互联网能力路由 ★76.0k
 
-**来源仓库**：[https://github.com/Panniantong/Agent-Reach](https://github.com/Panniantong/Agent-Reach)  
+**来源仓库**：[https://github.com/Panniantong/Agent-Reach](https://github.com/Panniantong/Agent-Reach) [⬆](#toc) 
 
 互联网能力路由器：15 平台、多后端、零配置检索。
 
@@ -442,7 +442,7 @@ anysearch 统一实时搜索引擎：通用/垂直/批量搜索与全文抽取�
 
 ### garden-skills 设计创作集 ★11.0k
 
-**来源仓库**：[https://github.com/ConardLi/garden-skills](https://github.com/ConardLi/garden-skills)  
+**来源仓库**：[https://github.com/ConardLi/garden-skills](https://github.com/ConardLi/garden-skills) [⬆](#toc) 
 
 ConardLi 设计创作集：网页文章、视觉设计、知识检索与 AI 出图。
 
@@ -454,7 +454,7 @@ ConardLi 设计创作集：网页文章、视觉设计、知识检索与 AI 出�
 
 ### huashu-design 花叔设计 ★23.6k
 
-**来源仓库**：[https://github.com/alchaincyf/huashu-design](https://github.com/alchaincyf/huashu-design)  
+**来源仓库**：[https://github.com/alchaincyf/huashu-design](https://github.com/alchaincyf/huashu-design) [⬆](#toc) 
 
 花叔 Design：HTML 高保真原型、幻灯片、动画与专家评审。
 
@@ -462,7 +462,7 @@ ConardLi 设计创作集：网页文章、视觉设计、知识检索与 AI 出�
 
 ### taste-skill 品味设计 ★81.1k
 
-**来源仓库**：[https://github.com/Leonxlnx/taste-skill](https://github.com/Leonxlnx/taste-skill)  
+**来源仓库**：[https://github.com/Leonxlnx/taste-skill](https://github.com/Leonxlnx/taste-skill) [⬆](#toc) 
 
 Taste-Skill：给 AI 好品味，反 AI 味的视觉设计精修。
 
@@ -482,7 +482,7 @@ Taste-Skill：给 AI 好品味，反 AI 味的视觉设计精修。
 
 ### ip-as-logo 个人 IP Logo ★4.4k
 
-**来源仓库**：[https://github.com/s1dashu/ip-as-logo-skill](https://github.com/s1dashu/ip-as-logo-skill)  
+**来源仓库**：[https://github.com/s1dashu/ip-as-logo-skill](https://github.com/s1dashu/ip-as-logo-skill) [⬆](#toc) 
 
 个人 IP 吉祥物 Logo：极简、圆润、轻新拟态。
 
@@ -490,7 +490,7 @@ Taste-Skill：给 AI 好品味，反 AI 味的视觉设计精修。
 
 ### frontend-slides 网页演示 ★28.2k
 
-**来源仓库**：[https://github.com/zarazhangrui/frontend-slides](https://github.com/zarazhangrui/frontend-slides)  
+**来源仓库**：[https://github.com/zarazhangrui/frontend-slides](https://github.com/zarazhangrui/frontend-slides) [⬆](#toc) 
 
 前端幻灯片技能，构建精美网页演示。
 
@@ -498,7 +498,7 @@ Taste-Skill：给 AI 好品味，反 AI 味的视觉设计精修。
 
 ### guizang 横向翻页网页 PPT ★25.0k
 
-**来源仓库**：[https://github.com/op7418/guizang-ppt-skill](https://github.com/op7418/guizang-ppt-skill)  
+**来源仓库**：[https://github.com/op7418/guizang-ppt-skill](https://github.com/op7418/guizang-ppt-skill) [⬆](#toc) 
 
 贵藏横向翻页网页 PPT：WebGL 背景、演讲者视图、数据大字报。
 
@@ -506,7 +506,7 @@ Taste-Skill：给 AI 好品味，反 AI 味的视觉设计精修。
 
 ### html-slides 网页幻灯片 ★75
 
-**来源仓库**：[https://github.com/bluedusk/html-slides](https://github.com/bluedusk/html-slides)  
+**来源仓库**：[https://github.com/bluedusk/html-slides](https://github.com/bluedusk/html-slides) [⬆](#toc) 
 
 HTML 幻灯片与演讲者备注，支持多 Agent 环境。
 
@@ -521,7 +521,7 @@ HTML 幻灯片与演讲者备注，支持多 Agent 环境。
 
 ### reverse-skill 安全逆向 ★29.7k
 
-**来源仓库**：[https://github.com/zhaoxuya520/reverse-skill](https://github.com/zhaoxuya520/reverse-skill)  
+**来源仓库**：[https://github.com/zhaoxuya520/reverse-skill](https://github.com/zhaoxuya520/reverse-skill) [⬆](#toc) 
 
 安全逆向路由包：逆向、渗透、漏洞挖掘、取证、威胁狩猎。
 
@@ -621,7 +621,7 @@ HTML 幻灯片与演讲者备注，支持多 Agent 环境。
 
 ### claude-seo SEO 优化 ★15.4k
 
-**来源仓库**：[https://github.com/AgriciDaniel/claude-seo](https://github.com/AgriciDaniel/claude-seo)  
+**来源仓库**：[https://github.com/AgriciDaniel/claude-seo](https://github.com/AgriciDaniel/claude-seo) [⬆](#toc) 
 
 通用 SEO：技术 SEO、E-E-A-T、Schema、GEO、本地 SEO。
 
@@ -660,7 +660,7 @@ HTML 幻灯片与演讲者备注，支持多 Agent 环境。
 
 ### ip-strategist 个人 IP 策略师 ★150
 
-**来源仓库**：[https://github.com/erduo1998-cell/ip-strategist](https://github.com/erduo1998-cell/ip-strategist)  
+**来源仓库**：[https://github.com/erduo1998-cell/ip-strategist](https://github.com/erduo1998-cell/ip-strategist) [⬆](#toc) 
 
 个人 IP 策略师：档案驱动的人设定位、内容支柱与脚本。
 
@@ -675,7 +675,7 @@ HTML 幻灯片与演讲者备注，支持多 Agent 环境。
 
 ### Matt Pocock 技能集 ★238.2k
 
-**来源仓库**：[https://github.com/mattpocock/skills](https://github.com/mattpocock/skills)  
+**来源仓库**：[https://github.com/mattpocock/skills](https://github.com/mattpocock/skills) [⬆](#toc) 
 
 工程工作流：任务管线、测试驱动、代码审查、拷问打磨与规划。
 
@@ -718,7 +718,7 @@ HTML 幻灯片与演讲者备注，支持多 Agent 环境。
 
 ### qiushi-skill 求是工作法 ★3.7k
 
-**来源仓库**：[https://github.com/HughYau/qiushi-skill](https://github.com/HughYau/qiushi-skill)  
+**来源仓库**：[https://github.com/HughYau/qiushi-skill](https://github.com/HughYau/qiushi-skill) [⬆](#toc) 
 
 求是工作法：调查先行、抓主要矛盾、实践验证、持续推进。
 
