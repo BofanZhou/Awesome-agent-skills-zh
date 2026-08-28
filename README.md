@@ -11,6 +11,7 @@
 - 优先收录有维护迹象、stars 较高或经过实际验证的仓库
 - 描述为中文意译，关键术语保留英文原文
 
+<a id="toc"></a>
 ## 目录
 
 1. **[官方出品 · Official](#01-official)**：Anthropic 官方技能 · Codex 生态工具
@@ -67,6 +68,8 @@ OpenAI Codex 环境配套技能：造技能、规则、子代理与宠物孵化�
 - **migrate-to-skills** — 把 Codex rules（.cursor/rules/*.mdc）与 slash commands 批量转换为 Agent Skills 格式。
 - **shell** — 把 /shell 请求按字面执行为 shell 命令（仅在用户明确要求时使用）。
 - **update-cursor-settings** — 修改 Codex / VSCode 用户 settings.json 设置。
+
+[⬆ 返回目录](#toc)
 
 <a id="02-research"></a>
 ## 科研学术 · Research
@@ -315,6 +318,8 @@ Nature 级科研流水线：检索、精读、引用、制图、统计、投稿�
 - **symbol-table-builder** — 从问题框架与活动方法维护一张全局数学符号与单位总表。
 - **workflow-orchestrator** — 巡检数模工作区，评估各子问题的 lean / submission 门禁并推进整体状态。
 
+[⬆ 返回目录](#toc)
+
 <a id="03-wechat"></a>
 ## 公众号 · 中文内容创作
 
@@ -375,6 +380,8 @@ Nature 级科研流水线：检索、精读、引用、制图、统计、投稿�
 
 - **humanizer-zh** — 去除文本中的 AI 生成痕迹，使其更自然、更像人类书写；基于维基百科「AI 写作特征」指南，检测并修复夸张比喻、套路化过渡等模式。
 
+[⬆ 返回目录](#toc)
+
 <a id="04-knowledge"></a>
 ## 知识管理与检索
 
@@ -425,6 +432,8 @@ anysearch 统一实时搜索引擎：通用/垂直/批量搜索与全文抽取�
 互联网能力路由器：15 平台、多后端、零配置检索。
 
 - **agent-reach** — Agent-Reach 互联网能力路由器：用户要求调研/搜索/查资料、或提到某个平台/分享 URL 时，用它从 15 个平台多渠道获取内容（小红书、推特、B站、Reddit、V2EX、LinkedIn、GitHub、YouTube、小宇宙、雪球、RSS 与任意网页）。多后端路由、6 渠道零配置。
+
+[⬆ 返回目录](#toc)
 
 <a id="05-frontend"></a>
 ## 前端 · 设计与视觉
@@ -502,6 +511,8 @@ Taste-Skill：给 AI 好品味，反 AI 味的视觉设计精修。
 HTML 幻灯片与演讲者备注，支持多 Agent 环境。
 
 - **html-slides** — 用 Claude/Codex/Copilot 的前端技能构建漂亮的 HTML 幻灯片与演讲者备注，可用 HTMLSlides App 演示。
+
+[⬆ 返回目录](#toc)
 
 <a id="06-security"></a>
 ## 安全逆向 · Security
@@ -601,6 +612,8 @@ HTML 幻灯片与演讲者备注，支持多 Agent 环境。
 - **wifi-wireless** — 无线安全评估：Wi-Fi 抓包、WPA 握手分析。
 - **windows-ad** — Active Directory 与 Windows 身份攻击：Kerberos、AD CS、委派。
 
+[⬆ 返回目录](#toc)
+
 <a id="07-seo"></a>
 ## SEO 优化
 
@@ -638,6 +651,8 @@ HTML 幻灯片与演讲者备注，支持多 Agent 环境。
 - **seo-sxo** — 搜索体验优化：反向解读 Google SERP 以检测页面类型错配。
 - **seo-technical** — 跨 9 类别的技术 SEO 审计：可抓取性、可索引性、安全、URL 结构等。
 
+[⬆ 返回目录](#toc)
+
 <a id="08-ip"></a>
 ## 个人 IP 打造
 
@@ -650,6 +665,8 @@ HTML 幻灯片与演讲者备注，支持多 Agent 环境。
 个人 IP 策略师：档案驱动的人设定位、内容支柱与脚本。
 
 - **ip-strategist** — 档案驱动的个人 IP 打造陪跑教练：先建私人档案，再「诊-契-行-盘」闭环推进人设定位、内容支柱、找题判题改题与短视频脚本。
+
+[⬆ 返回目录](#toc)
 
 <a id="09-engineering"></a>
 ## 工程流程与元技能
@@ -717,6 +734,8 @@ HTML 幻灯片与演讲者备注，支持多 Agent 环境。
 - **spark-prairie-fire** — 资源极少、从零起步时的最小可行切入口与根据地建设。
 - **workflows** — 需要多个思想武器协作时的标准化跨 skill 工作流组织。
 
+[⬆ 返回目录](#toc)
+
 <a id="10-notes"></a>
 ## 相关说明
 
@@ -724,6 +743,8 @@ HTML 幻灯片与演讲者备注，支持多 Agent 环境。
 - 本库按「用途」划分大类（官方出品 / 科研学术 / 公众号创作 / 知识管理 / 前端设计 / 安全逆向 / SEO / 个人 IP / 工程流程），每个来源仓库整簇归类，不拆散。
 - 本库侧重「中文可读」：每条给出一句中文用途说明，英文原名保留便于检索上游。
 - 欢迎补充新仓库：按上述收录标准，在对应大类追加簇并附来源仓库链接，发 PR。
+
+[⬆ 返回目录](#toc)
 
 <a id="11-related"></a>
 ## 相关项目
@@ -748,3 +769,5 @@ HTML 幻灯片与演讲者备注，支持多 Agent 环境。
 - **[SkillsMP（skillsmp.com/zh）](https://skillsmp.com/zh)** — 中文友好的技能商店，收录 3000+ 技能，主打安全审查，可搜索 / 安装。
 - **[skills.sh](https://skills.sh)** · **[LobeHub](https://lobehub.com/skills)** · **[AugmentClaude](https://augmentclaude.com/)** · **[SkillsDirectory](https://www.skillsdirectory.com/)** · **[MCP Market](https://mcpmarket.com/)** · **[Agensi](https://www.agensi.io/)** — 各类 Agent Skills 市场，多数带安全扫描、安装与分发能力。
 - **[anthropics/skills](https://github.com/anthropics/skills)** — Anthropic 官方 Agent Skills 仓库（见第 01 大类）；OpenAI Codex 生态技能亦是内容与权威标准来源。
+
+[⬆ 返回目录](#toc)
