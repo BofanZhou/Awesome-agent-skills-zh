@@ -2,7 +2,7 @@
 
 > 精选可用的 **AI Agent Skills**，按**用途**划分大类，以来源仓库（簇）为单位整体归类。中文介绍、保留英文术语。
 
-![skills](https://img.shields.io/badge/skills-467-blue) ![repos](https://img.shields.io/badge/repos-26-green) ![stars](https://img.shields.io/badge/stars-913k-brightgreen) ![license](https://img.shields.io/badge/license-MIT-yellow) ![zh](https://img.shields.io/badge/lang-中文-orange)
+![skills](https://img.shields.io/badge/skills-470-blue) ![repos](https://img.shields.io/badge/repos-27-green) ![stars](https://img.shields.io/badge/stars-914k-brightgreen) ![license](https://img.shields.io/badge/license-MIT-yellow) ![zh](https://img.shields.io/badge/lang-中文-orange)
 
 ## 收录标准
 
@@ -22,7 +22,7 @@
 6. **[安全逆向 · Security](#06-security)**：reverse-skill 安全逆向
 7. **[SEO 优化](#07-seo)**：claude-seo SEO 优化
 8. **[个人 IP 打造](#08-ip)**：ip-strategist 个人 IP 策略师
-9. **[工程流程与元技能](#09-engineering)**：Matt Pocock 技能集 · qiushi-skill 求是工作法
+9. **[工程流程与元技能](#09-engineering)**：Matt Pocock 技能集 · qiushi-skill 求是工作法 · Agent QA 测试工作流
 10. **[相关说明](#10-notes)**：收录口径与更新说明
 11. **[相关项目](#11-related)**：同类合集仓库与技能市场
 
@@ -734,12 +734,22 @@ HTML 幻灯片与演讲者备注，支持多 Agent 环境。
 - **spark-prairie-fire** — 资源极少、从零起步时的最小可行切入口与根据地建设。
 - **workflows** — 需要多个思想武器协作时的标准化跨 skill 工作流组织。
 
+### Agent QA 测试工作流 ★933
+
+**来源仓库**：[vostride/agent-qa](https://github.com/vostride/agent-qa) [⬆](#toc)
+
+面向 Web、Android 与 iOS 自然语言回归测试的三个 Agent Skills；当前版本采用 FSL-1.1-ALv2 源码可用许可。
+
+- **agent-qa-authoring** — 创建、校验并运行自然语言测试、测试套件与 hooks。
+- **agent-qa-debug-fix** — 根据运行证据、日志与 artifacts 定位失败并验证修复。
+- **agent-qa-result-triage** — 检查失败运行并输出有证据支撑的分类与下一步。
+
 [⬆ 返回目录](#toc)
 
 <a id="10-notes"></a>
 ## 相关说明
 
-- 数据来自对 26 个 GitHub 仓库的整理，共 467 个技能；stars 为整理时点数值。
+- 数据来自对 27 个 GitHub 仓库的整理，共 470 个技能；stars 为整理时点数值。
 - 本库按「用途」划分大类（官方出品 / 科研学术 / 公众号创作 / 知识管理 / 前端设计 / 安全逆向 / SEO / 个人 IP / 工程流程），每个来源仓库整簇归类，不拆散。
 - 本库侧重「中文可读」：每条给出一句中文用途说明，英文原名保留便于检索上游。
 - 欢迎补充新仓库：按上述收录标准，在对应大类追加簇并附来源仓库链接，发 PR。参见 [CONTRIBUTING.md](./CONTRIBUTING.md) 与贡献模板 [TEMPLATE.md](./TEMPLATE.md)。
