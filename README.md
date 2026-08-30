@@ -3,6 +3,7 @@
 > 精选可用的 **AI Agent Skills**，按**用途**划分大类，以来源仓库（簇）为单位整体归类。中文介绍、保留英文术语。
 
 ![skills](https://img.shields.io/badge/skills-470-blue) ![repos](https://img.shields.io/badge/repos-27-green) ![stars](https://img.shields.io/badge/stars-914k-brightgreen) ![license](https://img.shields.io/badge/license-MIT-yellow) ![zh](https://img.shields.io/badge/lang-中文-orange)
+![skills](https://img.shields.io/badge/skills-468-blue) ![repos](https://img.shields.io/badge/repos-27-green) ![stars](https://img.shields.io/badge/stars-913k-brightgreen) ![license](https://img.shields.io/badge/license-MIT-yellow) ![zh](https://img.shields.io/badge/lang-中文-orange)
 
 ## 收录标准
 
@@ -743,6 +744,13 @@ HTML 幻灯片与演讲者备注，支持多 Agent 环境。
 - **agent-qa-authoring** — 创建、校验并运行自然语言测试、测试套件与 hooks。
 - **agent-qa-debug-fix** — 根据运行证据、日志与 artifacts 定位失败并验证修复。
 - **agent-qa-result-triage** — 检查失败运行并输出有证据支撑的分类与下一步。
+### d1v Deployment Skill ★7
+
+**来源仓库**：[d1vai/d1v-cli](https://github.com/d1vai/d1v-cli/tree/main/skills/d1v) [⬆](#toc)
+
+面向 Claude Code 与 Codex 的 Web 项目部署流程技能，提供可验证的 Preview 与 Production 发布确认边界。
+
+- **d1v** — 部署 AI 构建的 Web 项目，等待 Preview 验证完成，并在 Production 发布前要求交互式明确确认。
 
 [⬆ 返回目录](#toc)
 
@@ -750,6 +758,7 @@ HTML 幻灯片与演讲者备注，支持多 Agent 环境。
 ## 相关说明
 
 - 数据来自对 27 个 GitHub 仓库的整理，共 470 个技能；stars 为整理时点数值。
+- 数据来自对 27 个 GitHub 仓库的整理，共 468 个技能；stars 为整理时点数值。
 - 本库按「用途」划分大类（官方出品 / 科研学术 / 公众号创作 / 知识管理 / 前端设计 / 安全逆向 / SEO / 个人 IP / 工程流程），每个来源仓库整簇归类，不拆散。
 - 本库侧重「中文可读」：每条给出一句中文用途说明，英文原名保留便于检索上游。
 - 欢迎补充新仓库：按上述收录标准，在对应大类追加簇并附来源仓库链接，发 PR。参见 [CONTRIBUTING.md](./CONTRIBUTING.md) 与贡献模板 [TEMPLATE.md](./TEMPLATE.md)。
