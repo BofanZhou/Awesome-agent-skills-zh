@@ -2,7 +2,7 @@
 
 > 精选可用的 **AI Agent Skills**，按**用途**划分大类，以来源仓库（簇）为单位整体归类。中文介绍、保留英文术语。
 
-![skills](https://img.shields.io/badge/skills-470-blue) ![repos](https://img.shields.io/badge/repos-27-green) ![stars](https://img.shields.io/badge/stars-914k-brightgreen) ![license](https://img.shields.io/badge/license-MIT-yellow) ![zh](https://img.shields.io/badge/lang-中文-orange)
+![skills](https://img.shields.io/badge/skills-471-blue) ![repos](https://img.shields.io/badge/repos-28-green) ![stars](https://img.shields.io/badge/stars-915k-brightgreen) ![license](https://img.shields.io/badge/license-MIT-yellow) ![zh](https://img.shields.io/badge/lang-中文-orange)
 ![skills](https://img.shields.io/badge/skills-468-blue) ![repos](https://img.shields.io/badge/repos-27-green) ![stars](https://img.shields.io/badge/stars-913k-brightgreen) ![license](https://img.shields.io/badge/license-MIT-yellow) ![zh](https://img.shields.io/badge/lang-中文-orange)
 
 ## 收录标准
@@ -19,7 +19,7 @@
 2. **[科研学术 · Research](#02-research)**：Nature 科研技能系列 · academic-research-skills 学术研究 · scientific-agent-skills 科学 Agent 技能库 · 数学建模竞赛工作流
 3. **[公众号 · 中文内容创作](#03-wechat)**：wechat-skills 公众号写作 · wewrite 公众号全流程 · wechat-article-skills 公众号 AI 运营 · Humanizer-zh 去除 AI 痕迹
 4. **[知识管理与检索](#04-knowledge)**：Obsidian 知识管理 · claude-obsidian 知识工作流 · anysearch 实时检索 · Agent-Reach 互联网能力路由
-5. **[前端 · 设计与视觉](#05-frontend)**：garden-skills 设计创作集 · huashu-design 花叔设计 · taste-skill 品味设计 · ip-as-logo 个人 IP Logo · frontend-slides 网页演示 · guizang 横向翻页网页 PPT · html-slides 网页幻灯片
+5. **[前端 · 设计与视觉](#05-frontend)**：garden-skills 设计创作集 · huashu-design 花叔设计 · taste-skill 品味设计 · ip-as-logo 个人 IP Logo · frontend-slides 网页演示 · guizang 横向翻页网页 PPT · html-slides 网页幻灯片 · OrkasVideoStudio 视频制作
 6. **[安全逆向 · Security](#06-security)**：reverse-skill 安全逆向
 7. **[SEO 优化](#07-seo)**：claude-seo SEO 优化 · NotFair 营销技能
 8. **[个人 IP 打造](#08-ip)**：ip-strategist 个人 IP 策略师
@@ -512,6 +512,14 @@ Taste-Skill：给 AI 好品味，反 AI 味的视觉设计精修。
 HTML 幻灯片与演讲者备注，支持多 Agent 环境。
 
 - **html-slides** — 用 Claude/Codex/Copilot 的前端技能构建漂亮的 HTML 幻灯片与演讲者备注，可用 HTMLSlides App 演示。
+
+### OrkasVideoStudio 视频制作 ★491
+
+**来源仓库**：[https://github.com/Orkas-AI/Orkas-VideoStudio](https://github.com/Orkas-AI/Orkas-VideoStudio) [⬆](#toc)
+
+本地优先的视频制作工具包，通过 CLI、MCP 与 Agent Skills 组织端到端流程。
+
+- **video-router** — 解析视频目标并路由策划、剪辑、生成、字幕、质检与交付流程。
 
 [⬆ 返回目录](#toc)
 
