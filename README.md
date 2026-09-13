@@ -455,6 +455,7 @@ ConardLi 设计创作集：网页文章、视觉设计、知识检索与 AI 出�
 
 ### huashu-design 花叔设计 ★23.6k
 
+- [mblode/agent-skills](https://github.com/mblode/agent-skills) - Nobody ships AI slop on purpose. These skills make sure you don't. UI audits, typography, docs, PR review, and releases. `npx skills add mblode/agent-skills`
 **来源仓库**：[https://github.com/alchaincyf/huashu-design](https://github.com/alchaincyf/huashu-design) [⬆](#toc) 
 
 花叔 Design：HTML 高保真原型、幻灯片、动画与专家评审。
