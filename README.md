@@ -2,8 +2,8 @@
 
 > 精选可用的 **AI Agent Skills**，按**用途**划分大类，以来源仓库（簇）为单位整体归类。中文介绍、保留英文术语。
 
-![skills](https://img.shields.io/badge/skills-470-blue) ![repos](https://img.shields.io/badge/repos-27-green) ![stars](https://img.shields.io/badge/stars-914k-brightgreen) ![license](https://img.shields.io/badge/license-MIT-yellow) ![zh](https://img.shields.io/badge/lang-中文-orange)
-![skills](https://img.shields.io/badge/skills-468-blue) ![repos](https://img.shields.io/badge/repos-27-green) ![stars](https://img.shields.io/badge/stars-913k-brightgreen) ![license](https://img.shields.io/badge/license-MIT-yellow) ![zh](https://img.shields.io/badge/lang-中文-orange)
+![skills](https://img.shields.io/badge/skills-471-blue) ![repos](https://img.shields.io/badge/repos-28-green) ![stars](https://img.shields.io/badge/stars-914k-brightgreen) ![license](https://img.shields.io/badge/license-MIT-yellow) ![zh](https://img.shields.io/badge/lang-中文-orange)
+![skills](https://img.shields.io/badge/skills-469-blue) ![repos](https://img.shields.io/badge/repos-28-green) ![stars](https://img.shields.io/badge/stars-913k-brightgreen) ![license](https://img.shields.io/badge/license-MIT-yellow) ![zh](https://img.shields.io/badge/lang-中文-orange)
 
 ## 收录标准
 
@@ -18,7 +18,7 @@
 1. **[官方出品 · Official](#01-official)**：Anthropic 官方技能 · Codex 生态工具
 2. **[科研学术 · Research](#02-research)**：Nature 科研技能系列 · academic-research-skills 学术研究 · scientific-agent-skills 科学 Agent 技能库 · 数学建模竞赛工作流
 3. **[公众号 · 中文内容创作](#03-wechat)**：wechat-skills 公众号写作 · wewrite 公众号全流程 · wechat-article-skills 公众号 AI 运营 · Humanizer-zh 去除 AI 痕迹
-4. **[知识管理与检索](#04-knowledge)**：Obsidian 知识管理 · claude-obsidian 知识工作流 · anysearch 实时检索 · Agent-Reach 互联网能力路由
+4. **[知识管理与检索](#04-knowledge)**：Obsidian 知识管理 · claude-obsidian 知识工作流 · anysearch 实时检索 · Agent-Reach 互联网能力路由 · Hyperconsciousness 本地知识检索
 5. **[前端 · 设计与视觉](#05-frontend)**：garden-skills 设计创作集 · huashu-design 花叔设计 · taste-skill 品味设计 · ip-as-logo 个人 IP Logo · frontend-slides 网页演示 · guizang 横向翻页网页 PPT · html-slides 网页幻灯片
 6. **[安全逆向 · Security](#06-security)**：reverse-skill 安全逆向
 7. **[SEO 优化](#07-seo)**：claude-seo SEO 优化 · NotFair 营销技能
@@ -433,6 +433,14 @@ anysearch 统一实时搜索引擎：通用/垂直/批量搜索与全文抽取�
 互联网能力路由器：15 平台、多后端、零配置检索。
 
 - **agent-reach** — Agent-Reach 互联网能力路由器：用户要求调研/搜索/查资料、或提到某个平台/分享 URL 时，用它从 15 个平台多渠道获取内容（小红书、推特、B站、Reddit、V2EX、LinkedIn、GitHub、YouTube、小宇宙、雪球、RSS 与任意网页）。多后端路由、6 渠道零配置。
+
+### Hyperconsciousness
+
+**来源仓库**：[louis030195/hyperconsciousness](https://github.com/louis030195/hyperconsciousness)
+
+提供本地知识发现的开发者 Alpha 工具，包含安装脚本、CLI 示例与有范围和有效期限制的知识授权。
+
+- **hyperconsciousness** — 检索本地 Skills、PKM 笔记与授权的加密知识。
 
 [⬆ 返回目录](#toc)
 
