@@ -2,7 +2,7 @@
 
 > 精选可用的 **AI Agent Skills**，按**用途**划分大类，以来源仓库（簇）为单位整体归类。中文介绍、保留英文术语。
 
-![skills](https://img.shields.io/badge/skills-470-blue) ![repos](https://img.shields.io/badge/repos-27-green) ![stars](https://img.shields.io/badge/stars-914k-brightgreen) ![license](https://img.shields.io/badge/license-MIT-yellow) ![zh](https://img.shields.io/badge/lang-中文-orange)
+![skills](https://img.shields.io/badge/skills-478-blue) ![repos](https://img.shields.io/badge/repos-28-green) ![stars](https://img.shields.io/badge/stars-914k-brightgreen) ![license](https://img.shields.io/badge/license-MIT-yellow) ![zh](https://img.shields.io/badge/lang-中文-orange)
 ![skills](https://img.shields.io/badge/skills-468-blue) ![repos](https://img.shields.io/badge/repos-27-green) ![stars](https://img.shields.io/badge/stars-913k-brightgreen) ![license](https://img.shields.io/badge/license-MIT-yellow) ![zh](https://img.shields.io/badge/lang-中文-orange)
 
 ## 收录标准
@@ -23,7 +23,7 @@
 6. **[安全逆向 · Security](#06-security)**：reverse-skill 安全逆向
 7. **[SEO 优化](#07-seo)**：claude-seo SEO 优化 · NotFair 营销技能
 8. **[个人 IP 打造](#08-ip)**：ip-strategist 个人 IP 策略师
-9. **[工程流程与元技能](#09-engineering)**：Matt Pocock 技能集 · qiushi-skill 求是工作法 · Agent QA 测试工作流
+9. **[工程流程与元技能](#09-engineering)**：Matt Pocock 技能集 · qiushi-skill 求是工作法 · Agent QA 测试工作流 · yylo-skills 工作流技能
 10. **[相关说明](#10-notes)**：收录口径与更新说明
 11. **[相关项目](#11-related)**：同类合集仓库与技能市场
 
@@ -802,12 +802,27 @@ HTML 幻灯片与演讲者备注，支持多 Agent 环境。
 
 - **d1v** — 部署 AI 构建的 Web 项目，等待 Preview 验证完成，并在 Production 发布前要求交互式明确确认。
 
+### yylo-skills 工作流技能 ★1
+
+**来源仓库**：[yylo-dev/yylo-skills](https://github.com/yylo-dev/yylo-skills) [⬆](#toc)
+
+面向 AI 编码代理的八个工作流 Agent Skills：Kanban 任务管理、实现规划、循环执行与证据留痕；MIT 许可，SKILL.md 可被 Claude Code / pi 加载。
+
+- **ledger-tasks-yylo** — 检索任意 YYLO Ledger Record，发现 PDR 与 artifacts，并管理任务和依赖。
+- **plan-ledger-tasks-yylo** — 按显式请求创建简明的产品开发需求与实现粒度的 Ledger 任务。
+- **ralph-loop-yylo** — 将单个指派的 Ledger 任务经 Ralph 循环执行到验证通过的排队提交。
+- **understand-project-yylo** — 在规划或实现前检视产品架构、依赖与验证闭环。
+- **wiki-yylo** — 将 Ledger wiki Records 用作持久项目知识，做分类正确且修订安全的更新。
+- **artifact-yylo** — 采集与检索持久的 Ledger artifact Records 及其来源与留存策略。
+- **workflow-yylo** — 创建并维护经验证的 Ledger workflow Records，分离存储、执行与运行证据。
+- **benchmark-yylo** — 准备评审用例，比较模型与 harness，并独立评估保留的输出。
+
 [⬆ 返回目录](#toc)
 
 <a id="10-notes"></a>
 ## 相关说明
 
-- 数据来自对 27 个 GitHub 仓库的整理，共 510 个技能；stars 为整理时点数值。
+- 数据来自对 28 个 GitHub 仓库的整理，共 518 个技能；stars 为整理时点数值。
 - 本库按「用途」划分大类（官方出品 / 科研学术 / 公众号创作 / 知识管理 / 前端设计 / 安全逆向 / SEO / 个人 IP / 工程流程），每个来源仓库整簇归类，不拆散。
 - 本库侧重「中文可读」：每条给出一句中文用途说明，英文原名保留便于检索上游。
 - 欢迎补充新仓库：按上述收录标准，在对应大类追加簇并附来源仓库链接，发 PR。参见 [CONTRIBUTING.md](./CONTRIBUTING.md) 与贡献模板 [TEMPLATE.md](./TEMPLATE.md)。
